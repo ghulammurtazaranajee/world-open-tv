@@ -1,824 +1,463 @@
 #EXTM3U
-
 #EXTINF:-1,&Flix (720p)
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-
 #EXTINF:-1,&Pictures (576p)
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-
 #EXTINF:-1,&privé HD (720p)
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
 #EXTINF:-1,3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
 #EXTINF:-1,7S Music (576p)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-
 #EXTINF:-1,9X Jalwa (576p)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
-
 #EXTINF:-1,9X Jhakaas (576p)
 http://14.199.164.20:4001/play/a0mx/index.m3u8
-
 #EXTINF:-1,9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1,Aathavan TV (720p) [Not 24/7]
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-
 #EXTINF:-1,ABP Ananda (720p)
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-
 #EXTINF:-1,ABP Asmita (324p)
 http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-
 #EXTINF:-1,ABP Asmita (720p)
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-
 #EXTINF:-1,ABP Hindi (324p)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-
 #EXTINF:-1,ABP Hindi (720p)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-
 #EXTINF:-1,ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-
 #EXTINF:-1,ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-
 #EXTINF:-1,Akaram Kidz (460p) [Not 24/7]
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-
 #EXTINF:-1,Amar Ujala (360p) [Not 24/7]
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-
 #EXTINF:-1,Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-
 #EXTINF:-1,Anjan (720p)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-
 #EXTINF:-1,Apna Punjab (720p)
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-
-#EXTINF:-1,Artist Aloud (1080p)
-https://live.hungama.com/linear/artist-aloud/playlist.m3u8
-
 #EXTINF:-1,Ashrafi Channel [Not 24/7]
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-
 #EXTINF:-1,Asianet Middle East (576p)
 http://14.199.164.20:4001/play/a0k6/index.m3u8
-
 #EXTINF:-1,Asianet News (576p)
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-
-#EXTINF:-1,Asianet News (404p) [Not 24/7]
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1,Asianet News Bangla (360p)
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
-
-#EXTINF:-1,Asianet News Kannada (360p)
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1,Asianet News Tamil (360p)
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-
 #EXTINF:-1,Assam Talks (240p)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1,Ayush TV (720p)
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-
 #EXTINF:-1,B4U Hitz (720p)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
-
 #EXTINF:-1,B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
 #EXTINF:-1,B4U movies (576p)
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-
 #EXTINF:-1,B4U Music (576p)
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-
 #EXTINF:-1,B4U Plus (720p)
 http://14.199.164.20:4001/play/a0wi/index.m3u8
-
-#EXTINF:-1,Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-
 #EXTINF:-1,Bloomberg TV Asia (720p)
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1,Bloomberg TV Asia Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1,Bollywood (480p)
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-
 #EXTINF:-1,Boogle Bollywood (400p)
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
 #EXTINF:-1,Captain TV (576p)
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-
 #EXTINF:-1,Cartoon Network Hindi (576p)
 http://103.153.39.34:8000/play/a04k/index.m3u8
-
 #EXTINF:-1,Cartoon Network Hindi (432p)
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-
 #EXTINF:-1,Channel (720p) [V]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-
 #EXTINF:-1,Channel Divya (360p) [Not 24/7]
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8
-
 #EXTINF:-1,Channel Win (360p)
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-
 #EXTINF:-1,Channel Y (720p) [Not 24/7]
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-
 #EXTINF:-1,CNBC Awaaz (504p)
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-
 #EXTINF:-1,CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-
 #EXTINF:-1,CNBC TV18 (504p)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
 #EXTINF:-1,Colors Bangla (720p)
 https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
-
 #EXTINF:-1,Dabangg (576p)
 http://14.199.164.20:4001/play/a0nb/index.m3u8
-
 #EXTINF:-1,Dangal Kannada (576p)
 http://14.199.164.20:4001/play/a0sq/index.m3u8
-
 #EXTINF:-1,Darshana TV (576p)
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
-
 #EXTINF:-1,DD Malayalam (576p)
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-
 #EXTINF:-1,DD National (576p)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
-#EXTINF:-1,DD National (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-
 #EXTINF:-1,DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
 #EXTINF:-1,Desi Beats HD (720p)
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-
 #EXTINF:-1,Desi Channel (400p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
 #EXTINF:-1,Desi Plus (720p)
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-
 #EXTINF:-1,Dhinchaak (576p)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-
 #EXTINF:-1,Dhinchaak 2 (576p)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
-
-#EXTINF:-1,Dil Se (1080p)
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-
 #EXTINF:-1,Disha TV (360p) [Not 24/7]
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
-
 #EXTINF:-1,Dishum (576p)
 http://14.199.164.20:4001/play/a0pe/index.m3u8
-
-#EXTINF:-1,DocuBay TV (1080p)
-https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
-
 #EXTINF:-1,Dream TV
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
-
 #EXTINF:-1,Dreamz TV (768p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-
 #EXTINF:-1,E24 (576p)
 http://14.199.164.20:4001/play/a0pc/index.m3u8
-
-#EXTINF:-1,EET TV (720p)
-https://live.streamjo.com/eetlive/eettv.m3u8
-
 #EXTINF:-1,ET Now (720p)
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-
 #EXTINF:-1,ETV Chattisgarh
 https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
-
 #EXTINF:-1,ETV Uttarakhand
 https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
-
 #EXTINF:-1,Fakt Marathi (576p)
 http://14.199.164.20:4001/play/a0q8/index.m3u8
-
 #EXTINF:-1,FASTWAY NEWS (720p)
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-
 #EXTINF:-1,Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-
 #EXTINF:-1,Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-
 #EXTINF:-1,Food Food (576p)
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-
 #EXTINF:-1,Gaunda Punjab TV (720p)
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-
 #EXTINF:-1,GDNS Ludhiana (1080p)
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-
-#EXTINF:-1,GSTV (720p)
-https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
-
 #EXTINF:-1,Gusto TV (720p)
 https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1,Hulchul TV (720p)
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-
 #EXTINF:-1,Hungama TV (576p)
 http://103.153.39.34:8000/play/a04l/index.m3u8
-
-#EXTINF:-1,India News (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-
 #EXTINF:-1,India TV (480p)
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
-
 #EXTINF:-1,Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-
 #EXTINF:-1,Jaihind TV (576p)
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-
 #EXTINF:-1,Jan TV (360p)
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
-
 #EXTINF:-1,Janam TV (576p)
 http://14.199.164.20:4001/play/a0ja/index.m3u8
-
-#EXTINF:-1,Janam TV (720p)
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1,Janta TV (1080p)
 https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-
 #EXTINF:-1,Jeevan TV (576p)
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-
 #EXTINF:-1,Jhanjar Music [Not 24/7]
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-
 #EXTINF:-1,Jonack TV (360p)
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-
-#EXTINF:-1,Kadak Hits (1080p)
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-
-#EXTINF:-1,Kairali Arabia (576p)
-https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
-
 #EXTINF:-1,Kairali News (576p)
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-
 #EXTINF:-1,Kairali TV (576p)
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-
 #EXTINF:-1,Kairali We (576p)
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-
 #EXTINF:-1,Kalaignar (576p)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-
 #EXTINF:-1,Kalaignar Murasu (576p)
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-
 #EXTINF:-1,Kalaignar Seithikal (576p)
 http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
-
 #EXTINF:-1,Kalaignar Sirippoli (576p)
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-
-#EXTINF:-1,Kanak News (720p)
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-
 #EXTINF:-1,Kannur One (1024p) [Not 24/7]
 https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
 #EXTINF:-1,Kannur Vision (360p)
 https://stream.ufworldind.in/live/kvision/playlist.m3u8
-
 #EXTINF:-1,Kappa TV (576p)
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-
 #EXTINF:-1,Kaumudy TV (360p)
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-
 #EXTINF:-1,KCL TV (720p)
 http://kcltv.livebox.co.in/kclhls/live.m3u8
-
 #EXTINF:-1,KCV (720p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
-
 #EXTINF:-1,KCV Movies (720p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
-
 #EXTINF:-1,Kerala Vision (576p)
 http://14.199.164.20:4001/play/a0ni/index.m3u8
-
-#EXTINF:-1,Khabrain Abhi Tak (480p)
-https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1,KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-
 #EXTINF:-1,Life Punjabi (720p)
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-
 #EXTINF:-1,Lok Sabha TV (576p) [Not 24/7]
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,Lok Sabha TV (576p) [Not 24/7]
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-
 #EXTINF:-1,Maha Movie (576p)
 http://14.199.164.20:4001/play/a0q7/index.m3u8
-
-#EXTINF:-1,Maha Movie (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-
-#EXTINF:-1,Malaimurasu (480p) [Not 24/7]
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-
 #EXTINF:-1,Malappuram Channel (720p) [Not 24/7]
 http://103.78.18.137:1935/live/mlpchannel/chunklist.m3u8
-
 #EXTINF:-1,Mangalam (576p)
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-
 #EXTINF:-1,Manorama News (576p)
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-
-#EXTINF:-1,Manoranjan Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
 #EXTINF:-1,Marutam TV (720p)
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-
 #EXTINF:-1,Mastiii (576p)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
 #EXTINF:-1,Mathrubhumi News (576p)
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-
 #EXTINF:-1,Mazhavil Manorama (1080p)
 http://14.199.164.20:4001/play/a0p9/index.m3u8
-
 #EXTINF:-1,Mazhavil Manorama (720p) [Not 24/7]
 http://14.199.164.20:4001/play/a0pa/index.m3u8
-
 #EXTINF:-1,Media One (576p)
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-
 #EXTINF:-1,MH1 Music (360p)
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-
 #EXTINF:-1,MH1 Prime (360p) [Not 24/7]
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-
 #EXTINF:-1,Mirror Now (576p)
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-
 #EXTINF:-1,MK Six (576p)
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-
 #EXTINF:-1,MK Tunes (576p)
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-
 #EXTINF:-1,MK TV (576p)
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-
 #EXTINF:-1,Music India (360p)
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-
 #EXTINF:-1,Music India (576p)
 http://14.199.164.20:4001/play/a0mt/index.m3u8
-
 #EXTINF:-1,Namdhari (404p)
 https://namdhari.tv/live/sbs1.m3u8
-
 #EXTINF:-1,Naxtra News (720p)
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-
-#EXTINF:-1,Nazrana (1080p)
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-
 #EXTINF:-1,NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
 #EXTINF:-1,NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-
 #EXTINF:-1,NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-
 #EXTINF:-1,NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-
 #EXTINF:-1,Nethra TV (480p) [Not 24/7]
 https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-
 #EXTINF:-1,News 18 Assam (360p)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Bengali (360p)
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Chhattisgarh (360p)
 https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Gujarati (360p)
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Hindi (360p)
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Jharkhand (360p)
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-
-#EXTINF:-1,News 18 Lokmat (504p)
-https://iptv-all.lanesh4d0w.codes/india/news18-lokmat.m3u8
-
 #EXTINF:-1,News 18 Malayalam (360p)
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Odia (360p)
 https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Punjab (360p)
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Rajasthan (360p)
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Tamil (360p)
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Urdu (360p)
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,News 18 Uttarakhand (360p)
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-
-#EXTINF:-1,News 24 (480p) [Not 24/7]
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-
-#EXTINF:-1,News 24 (360p) [Not 24/7]
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
-
 #EXTINF:-1,News 7 Tamil (576p)
 http://14.199.164.20:4001/play/a0kp/index.m3u8
-
 #EXTINF:-1,News18 Assam (504p)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-
 #EXTINF:-1,News18 Bangla (360p)
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-
 #EXTINF:-1,News18 India (504p)
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-
 #EXTINF:-1,Odisha TV (480p)
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
-
 #EXTINF:-1,One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
-
 #EXTINF:-1,Peppers (576p)
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-
 #EXTINF:-1,Polimer News (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0lg/index.m3u8
-
-#EXTINF:-1,Pop Pataka (1080p)
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
 #EXTINF:-1,Popular Science (720p)
 https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
-
 #EXTINF:-1,Pratidin Time (360p) [Not 24/7]
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-
 #EXTINF:-1,Pravasi (1080p) [Not 24/7]
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
-
 #EXTINF:-1,Prime Canada TV (720p)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-
 #EXTINF:-1,Public Movies (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0ll/index.m3u8
-
 #EXTINF:-1,Public TV (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0ld/index.m3u8
-
-#EXTINF:-1,Pulari TV (720p)
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-
 #EXTINF:-1,PUNJAB TV (720p)
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-
-#EXTINF:-1,Punjabi Zindabad (360p)
-http://stream.pztv.online/pztv/playlist.m3u8
-
 #EXTINF:-1,Puthuyugam TV (576p)
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-
 #EXTINF:-1,R Plus News (360p)
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-
 #EXTINF:-1,Real News Kerala (1080p)
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-
-#EXTINF:-1,Real TV (1080p) [Not 24/7]
-http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
-
-#EXTINF:-1,Relax TV (720p) [Not 24/7]
-http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
-
 #EXTINF:-1,Reporter TV (576p)
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-
-#EXTINF:-1,Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
-
 #EXTINF:-1,Sada TV (720p)
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-
-#EXTINF:-1,Sadhna (360p)
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-
-#EXTINF:-1,Sadhna Plus (360p)
-http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-
-#EXTINF:-1,Safari TV (480p)
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-
 #EXTINF:-1,Sana Plus (720p)
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-
 #EXTINF:-1,Sana TV (576p) [Not 24/7]
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:-1,Sanskaar (1080p) [Not 24/7]
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-
 #EXTINF:-1,Santhora Short Flim (720p)
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-
 #EXTINF:-1,Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-
 #EXTINF:-1,Sardari TV (1080p)
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-
-#EXTINF:-1,Satsang (1080p) [Not 24/7]
-https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
-
 #EXTINF:-1,Serveur TV (720p)
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-
 #EXTINF:-1,Shekinah TV (576p)
 http://14.199.164.20:4001/play/a0ok/index.m3u8
-
 #EXTINF:-1,Shemaroo TV (576p)
 http://14.199.164.20:4001/play/a0nh/index.m3u8
-
-#EXTINF:-1,Shirdi Live (720p)
-https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-
 #EXTINF:-1,Show Box (576p)
 http://14.199.164.20:4001/play/a0o8/index.m3u8
-
 #EXTINF:-1,Shraddha (360p) [Not 24/7]
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-
 #EXTINF:-1,Shubhsandesh (576p)
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-
 #EXTINF:-1,Sony Sab HD (1080p)
 http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Sri Sankara (360p)
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
-
 #EXTINF:-1,Star Cinema (576p)
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-
 #EXTINF:-1,Star Family (576p)
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-
 #EXTINF:-1,Star Plus HD
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-
 #EXTINF:-1,Studio One Plus (576p)
 http://14.199.164.20:4001/play/a0oh/index.m3u8
-
 #EXTINF:-1,Studio One Yuva (576p)
 http://14.199.164.20:4001/play/a0sr/index.m3u8
-
 #EXTINF:-1,Surya Movies (406p)
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryamovies/master/master.m3u8
-
 #EXTINF:-1,Surya Music (480p)
 https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
-
 #EXTINF:-1,Surya TV (540p)
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
-
 #EXTINF:-1,Surya TV (720p)
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
-
 #EXTINF:-1,Swaraj Express (576p) [Not 24/7]
 https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-
 #EXTINF:-1,Tamil Vision International (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-
 #EXTINF:-1,Tamil Vision International (720p)
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-
 #EXTINF:-1,TBO Classic Telugu (720p)
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-
-#EXTINF:-1,Thanthi TV (720p)
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1,Thrill (480p) [Geo-blocked]
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-
 #EXTINF:-1,Time TV
 https://cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8
-
 #EXTINF:-1,Time Vision News (720p) [Not 24/7]
 http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
-
 #EXTINF:-1,Times Now (480p)
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
 #EXTINF:-1,Travel XP (720p)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,TV9 News (720p)
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
-
 #EXTINF:-1,Twenty Four News (576p)
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-
-#EXTINF:-1,UBL HD (1080p) [Not 24/7]
-https://cdn.logicwebs.in/hls/ublhdkey.m3u8
-
 #EXTINF:-1,Uthradam Movies (576p)
 http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
-
 #EXTINF:-1,Utsav Gold
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-
 #EXTINF:-1,Wow Cinema One (576p)
 http://14.199.164.20:4001/play/a0n3/index.m3u8
-
 #EXTINF:-1,Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-
 #EXTINF:-1,Yupp Thirai (270p)
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
-
 #EXTINF:-1,Z Living USA (720p)
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-
 #EXTINF:-1,Zee 24 (576p)
 https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-
 #EXTINF:-1,Zee Action (576p)
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-
 #EXTINF:-1,Zee Anmol Cinema (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-
 #EXTINF:-1,Zee Bangla Cinema (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-
 #EXTINF:-1,Zee Bihar Jharkhand (576p)
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-
 #EXTINF:-1,Zee Bioskop (360p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-
 #EXTINF:-1,Zee Cafe (720p)
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-
 #EXTINF:-1,Zee Cinema Middle East (720p)
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-
 #EXTINF:-1,Zee Cinema UK (576p)
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-
 #EXTINF:-1,Zee Classic (576p)
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-
 #EXTINF:-1,Zee Keralam HD (720p)
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-
 #EXTINF:-1,Zee Marathi USA (576p)
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-
 #EXTINF:-1,Zee Mundo (720p)
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-
 #EXTINF:-1,Zee Music (576p)
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-
 #EXTINF:-1,Zee News MPCG (576p)
 https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-
 #EXTINF:-1,Zee Punjabi (576p)
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-
 #EXTINF:-1,Zee Rajasthan (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-
 #EXTINF:-1,Zee Smile USA (576p)
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-
 #EXTINF:-1,Zee Talkies (720p)
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-
 #EXTINF:-1,Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-
 #EXTINF:-1,Zee TV APAC (576p)
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-
 #EXTINF:-1,Zee TV Canada (720p)
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-
 #EXTINF:-1,Zee TV Middle East (576p)
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-
 #EXTINF:-1,Zee TV Russia (720p)
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-
 #EXTINF:-1,Zee TV USA (576p)
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
-
 #EXTINF:-1,Zee World (576p)
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-
 #EXTINF:-1,Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-
 #EXTINF:-1,Zee5 Romance (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-
 #EXTINF:-1,Zing (576p)
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-
-#EXTINF:-1,#EXTVLCOPT:network-caching=1000
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
-
 #EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1,### Info OpenTv Romania ###
+#EXTINF:-1,#
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21268.ts
 #EXTINF:-1,Antena 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9051.ts
@@ -904,8 +543,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9066.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/13585.ts
 #EXTINF:-1,Realitatea Plus
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9132.ts
-#EXTINF:-1,Metropola Tv
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26657.ts
 #EXTINF:-1,Digi Sport 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9096.ts
 #EXTINF:-1,Digi Sport 1 FHD
@@ -1012,16 +649,10 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/13855.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17916.ts
 #EXTINF:-1,OpenTv Baieti de Oras
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17915.ts
-#EXTINF:-1,OpenTv Penticostal
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28705.ts
-#EXTINF:-1,OpenTv Turk Film
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28671.ts
 #EXTINF:-1,OpenTv Turk Series 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28672.ts
 #EXTINF:-1,OpenTv Turk Series 2
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28673.ts
-#EXTINF:-1,OpenTv Series Ro
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28674.ts
 #EXTINF:-1,Diaspora Filme Romanesti
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25112.ts
 #EXTINF:-1,Diaspora Science
@@ -1038,8 +669,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25117.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28668.ts
 #EXTINF:-1,OkTv Manele
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28704.ts
-#EXTINF:-1,OkTv New Release
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28695.ts
 #EXTINF:-1,OkTv 007
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28703.ts
 #EXTINF:-1,OkTv Action
@@ -1060,7 +689,7 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14450.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14455.ts
 #EXTINF:-1,AnumeTv Filme Dublate
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14499.ts
-#EXTINF:-1,AnumeTv Manele 
+#EXTINF:-1,AnumeTv Manele
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/16203.ts
 #EXTINF:-1,AnumeTv Comedie Romaneasca
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17584.ts
@@ -1108,8 +737,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20378.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20377.ts
 #EXTINF:-1,LIDAS FILM ZONE HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20379.ts
-#EXTINF:-1,LIDAS CLASSIC FILM HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20381.ts
 #EXTINF:-1,LIDAS CINEMA + HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20384.ts
 #EXTINF:-1,LIDAS CINESTAR HD
@@ -1134,8 +761,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20398.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28706.ts
 #EXTINF:-1,Lidas Romales
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28707.ts
-#EXTINF:-1,LIDAS KIDS HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/20395.ts
 #EXTINF:-1,HDNet Premiere
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/13383.ts
 #EXTINF:-1,HDNet Action
@@ -1336,7 +961,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17959.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17962.ts
 #EXTINF:-1,Mega Kids
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/17960.ts
-
 #EXTINF:-1,Prime Comedie
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/18998.ts
 #EXTINF:-1,Prime Animatie
@@ -1475,7 +1099,7 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9120.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9095.ts
 #EXTINF:-1,Cinemaraton
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9094.ts
-#EXTINF:-1,BabyTv 
+#EXTINF:-1,BabyTv
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21072.ts
 #EXTINF:-1,Boomerang
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9161.ts
@@ -1547,8 +1171,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/18217.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/18218.ts
 #EXTINF:-1,OpenTv Y2K
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/18219.ts
-#EXTINF:-1,Planeta Music 4K 
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28670.ts
 #EXTINF:-1,First Music FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9024.ts
 #EXTINF:-1,First Music 4k
@@ -1575,24 +1197,18 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9146.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9141.ts
 #EXTINF:-1,KissTV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9140.ts
-#EXTINF:-1,1 Music Channel
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/11211.ts
 #EXTINF:-1,Kronehit FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9019.ts
 #EXTINF:-1,Jasmin Tv (Music)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14706.ts
 #EXTINF:-1,Mooz Dance HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9021.ts
-#EXTINF:-1,RadioZU TV HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9023.ts
 #EXTINF:-1,VH1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9147.ts
 #EXTINF:-1,VH1 Classic
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9148.ts
 #EXTINF:-1,Mooz RO!
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9150.ts
-#EXTINF:-1,Mooz 4K
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28693.ts
 #EXTINF:-1,First Music
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9152.ts
 #EXTINF:-1,Mooz Dance
@@ -1637,10 +1253,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9014.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9017.ts
 #EXTINF:-1,Travel Channel
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9129.ts
-#EXTINF:-1,CNN International
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9138.ts
-#EXTINF:-1,Publika Tv
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/1533.ts
 #EXTINF:-1,Publika Tv FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/8619.ts
 #EXTINF:-1,GurinelTV
@@ -1659,12 +1271,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9237.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9238.ts
 #EXTINF:-1,RTR Moldova
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9240.ts
-#EXTINF:-1,Canal 2 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9242.ts
-#EXTINF:-1,Moldova 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9243.ts
-#EXTINF:-1,OrheiTV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9245.ts
 #EXTINF:-1,CTC Mega
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9246.ts
 #EXTINF:-1,Vocea Basarabiei
@@ -1681,10 +1287,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14707.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14708.ts
 #EXTINF:-1,Pro Tv Chisinau
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/1534.ts
-#EXTINF:-1,Sangeorz Tv
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/1537.ts
-#EXTINF:-1,Tele M 
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/1532.ts
 #EXTINF:-1,BucurestiTV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9062.ts
 #EXTINF:-1,DottoTv Constanta
@@ -1695,13 +1297,11 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/1557.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/9174.ts
 #EXTINF:-1,Vaslui Tv Hd
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26680.ts
-#EXTINF:-1,HD (Hunedoara) 365
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26682.ts
 #EXTINF:-1,Alba CarolinaTv
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26683.ts
 #EXTINF:-1,Tv Arad HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26685.ts
-#EXTINF:-1,Tele M Iasi 
+#EXTINF:-1,Tele M Iasi
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26687.ts
 #EXTINF:-1,Tele Nova Timisoara
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26688.ts
@@ -1745,11 +1345,9 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/11221.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/11222.ts
 #EXTINF:-1,Digi Animal World
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/13583.ts
-#EXTINF:-1,Inedit Tv
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14437.ts
 #EXTINF:-1,Comedy Est
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14438.ts
-#EXTINF:-1,Mezzo 
+#EXTINF:-1,Mezzo
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/14440.ts
 #EXTINF:-1,Valea Prahovei
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/18992.ts
@@ -1759,14 +1357,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24810.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24811.ts
 #EXTINF:-1,Bucuresti Tv
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25136.ts
-#EXTINF:-1,Nova Tv Brasov
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26652.ts
-#EXTINF:-1,Cornea Tv
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26653.ts
 #EXTINF:-1,CBN Family Romania
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26654.ts
-#EXTINF:-1,Tv Buzau 
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26655.ts
 #EXTINF:-1,EmiTv Hd
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/28669.ts
 #EXTINF:-1,[ES] AXN FHD
@@ -1779,8 +1371,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24639.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24640.ts
 #EXTINF:-1,[ES] BOING
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24641.ts
-#EXTINF:-1,[ES] CLASSICA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24642.ts
 #EXTINF:-1,[ES] DIVINITY
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24643.ts
 #EXTINF:-1,[ES] ENERGY
@@ -1817,7 +1407,7 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24670.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24671.ts
 #EXTINF:-1,[ES] SUNDANCE TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24672.ts
-#EXTINF:-1,[ES] #VAMOS FHD
+#EXTINF:-1,#VAMOS FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24674.ts
 #EXTINF:-1,[ES] AMC FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24675.ts
@@ -1865,8 +1455,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24696.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24697.ts
 #EXTINF:-1,[ES] M.FORMULA 1 FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24698.ts
-#EXTINF:-1,[ES] MEZZO LIVE FHD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24699.ts
 #EXTINF:-1,[ES] NAT GEO FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24700.ts
 #EXTINF:-1,[ES] NAT GEOGRAPH
@@ -1885,9 +1473,9 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24706.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24707.ts
 #EXTINF:-1,[ES] TOROS FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24708.ts
-#EXTINF:-1,[ES] #0 HD
+#EXTINF:-1,#0 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24709.ts
-#EXTINF:-1,[ES] #0
+#EXTINF:-1,#0
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24710.ts
 #EXTINF:-1,[ES] ARAGON TV INT
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24711.ts
@@ -1931,8 +1519,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24729.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24730.ts
 #EXTINF:-1,[ES] M. SERIES HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24731.ts
-#EXTINF:-1,[ES] M.CineDoc&Roll HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24732.ts
 #EXTINF:-1,[ES] M.LCAMPEON 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24733.ts
 #EXTINF:-1,[ES] M.LCAMPEON 2
@@ -1955,7 +1541,7 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24741.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24742.ts
 #EXTINF:-1,[ES] VIAJAR HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24743.ts
-#EXTINF:-1,[ES] #VAMOS
+#EXTINF:-1,#VAMOS
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24746.ts
 #EXTINF:-1,[ES] 24 HORAS
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/24747.ts
@@ -2005,8 +1591,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26496.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26497.ts
 #EXTINF:-1,[FR] CANAL+ FAMILY HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26498.ts
-#EXTINF:-1,[FR] CANAL+ SERIES HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26499.ts
 #EXTINF:-1,[FR] CINE+ CLASSIC HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26500.ts
 #EXTINF:-1,[FR] CINE+ EMOTION HD
@@ -2041,8 +1625,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26516.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26519.ts
 #EXTINF:-1,[FR] TEVA HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26520.ts
-#EXTINF:-1,[FR] NOVELAS HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26522.ts
 #EXTINF:-1,[FR] ALICE STUDIO HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26524.ts
 #EXTINF:-1,[FR] TV MONT BLANC HD
@@ -2059,8 +1641,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26535.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26536.ts
 #EXTINF:-1,[FR] E! HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26537.ts
-#EXTINF:-1,[FR] NAT GEO WILD HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26538.ts
 #EXTINF:-1,[FR] NATIONAL GEO HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26539.ts
 #EXTINF:-1,[FR] PLANETE+ CI HD
@@ -2087,13 +1667,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26562.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26568.ts
 #EXTINF:-1,[FR] RMC SPORT 2 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26570.ts
-#EXTINF:-1,[FR] RMC SPORT 3 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26572.ts
-
-
-
-#EXTINF:-1,UK: TLC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26921.ts
 #EXTINF:-1,UK: Sony Movies Classic
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26922.ts
 #EXTINF:-1,UK: Sony Movies Action
@@ -2106,58 +1679,28 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26925.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26926.ts
 #EXTINF:-1,UK: Yesterday HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26927.ts
-#EXTINF:-1,UK: Yesterday SD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26928.ts
 #EXTINF:-1,UK: Sky Cinema Action HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26930.ts
 #EXTINF:-1,UK: Sky Cinema Comedy HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26931.ts
 #EXTINF:-1,UK: Sky Cinema Drama HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26932.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26933.ts
-#EXTINF:-1,UK: Sky Cinema Greats HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26934.ts
 #EXTINF:-1,UK: Sky Cinema Premiere HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26935.ts
-#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26936.ts
-#EXTINF:-1,UK: Sky Cinema Thriller HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26937.ts
-#EXTINF:-1,UK: Sony Movies HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26939.ts
-#EXTINF:-1,UK: Sky Sports News HQ HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26942.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26943.ts
 #EXTINF:-1,UK: Sky Sports Football HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26944.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26946.ts
 #EXTINF:-1,UK: Sky Sports Premier League HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26947.ts
 #EXTINF:-1,UK: Sky Sports Action HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26948.ts
 #EXTINF:-1,UK: Sky Sports Arena HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26949.ts
-#EXTINF:-1,UK: Sky Sports Box Office (LIVE DURING BOXING MATCH)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26950.ts
 #EXTINF:-1,UK: Sky Sports Cricket HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26951.ts
 #EXTINF:-1,UK: Sky Sports F1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26952.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26953.ts
 #EXTINF:-1,UK: At The Races HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26954.ts
-#EXTINF:-1,UK: At The Races
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26955.ts
-#EXTINF:-1,UK: BoxNation HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26956.ts
-#EXTINF:-1,UK: BT Sport Box Office PPV (Live During Events Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26957.ts
-#EXTINF:-1,UK: BT Sports 1 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26958.ts
 #EXTINF:-1,UK: BT Sports 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26959.ts
 #EXTINF:-1,UK: BT Sports 2 HD
@@ -2168,18 +1711,10 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26961.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26962.ts
 #EXTINF:-1,UK: BT Sports 3
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26963.ts
-#EXTINF:-1,UK: BT Sports Extra 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26964.ts
 #EXTINF:-1,UK: BT Sports Extra 2 (Live Match Only)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26965.ts
 #EXTINF:-1,UK: BT Sports Extra 4
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26967.ts
-#EXTINF:-1,UK: BT Sports Extra 5 (Live Match Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26968.ts
-#EXTINF:-1,UK: BT Sports Extra 6 (Live Match Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26969.ts
-#EXTINF:-1,IRL: Eir Sports 1 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26970.ts
 #EXTINF:-1,IRL: Eir Sports 2 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26971.ts
 #EXTINF:-1,UK: Eurosport 1
@@ -2194,10 +1729,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26975.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26976.ts
 #EXTINF:-1,UK: LFC TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26977.ts
-#EXTINF:-1,UK: MUTV HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26978.ts
-#EXTINF:-1,UK: Horse & Country
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26979.ts
 #EXTINF:-1,UK: Racing UK
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26980.ts
 #EXTINF:-1,-----UK CULTUR-----
@@ -2208,10 +1739,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26983.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26984.ts
 #EXTINF:-1,UK: Discovery History
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26986.ts
-#EXTINF:-1,UK: Discovery History HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26987.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26988.ts
 #EXTINF:-1,UK: Investigation Discovery HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26989.ts
 #EXTINF:-1,UK: Discovery Science
@@ -2220,10 +1747,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26990.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26992.ts
 #EXTINF:-1,UK: Discovery Turbo
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26993.ts
-#EXTINF:-1,UK: History Channel 1 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26994.ts
-#EXTINF:-1,UK: History Channel 2 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26995.ts
 #EXTINF:-1,UK: Home
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26996.ts
 #EXTINF:-1,UK: Animal planet
@@ -2242,32 +1765,18 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27002.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27003.ts
 #EXTINF:-1,UK: Universal Channel HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27004.ts
-#EXTINF:-1,-----UK KIDS-----
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27005.ts
 #EXTINF:-1,UK: Cartoon Network HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27006.ts
 #EXTINF:-1,UK: Baby TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27007.ts
 #EXTINF:-1,UK: Baby TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27008.ts
-#EXTINF:-1,UK: Boomerang
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27009.ts
-#EXTINF:-1,UK: Boomerang HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27010.ts
-#EXTINF:-1,UK: Cartoonito HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27011.ts
 #EXTINF:-1,UK: Cbeebies
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27012.ts
 #EXTINF:-1,UK: Nick Jr HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27013.ts
 #EXTINF:-1,UK: Nick Jr Too HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27014.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27015.ts
-#EXTINF:-1,UK: Nicktoons HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27016.ts
-#EXTINF:-1,UK: BBC News HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27021.ts
 #EXTINF:-1,UK: BBC News
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27022.ts
 #EXTINF:-1,UK: CNN International
@@ -2278,17 +1787,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27025.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27026.ts
 #EXTINF:-1,UK: CNBC Europe
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27027.ts
-#EXTINF:-1,UK: CNBC News
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27028.ts
-
-#EXTINF:-1,UK: Sky News
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27029.ts
-#EXTINF:-1,UK:  Bloomberg UK
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27030.ts
-#EXTINF:-1,UK:  ABP News HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27031.ts
-#EXTINF:-1,UK:  RTE News
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27032.ts
 #EXTINF:-1,UK: France 24 News
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27033.ts
 #EXTINF:-1,UK: GEO News
@@ -2305,8 +1803,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27038.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27039.ts
 #EXTINF:-1,UK: MTV Rocks HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27041.ts
-#EXTINF:-1,UK: MTV Base
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27042.ts
 #EXTINF:-1,UK: VH1 Classic HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27043.ts
 #EXTINF:-1,UK: 4Music
@@ -2321,8 +1817,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21099.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21101.ts
 #EXTINF:-1,KvartalTV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21102.ts
-#EXTINF:-1,Vip Premiere HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21103.ts
 #EXTINF:-1,Vip MegaHit HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21104.ts
 #EXTINF:-1,Vip Comedy HD
@@ -2341,28 +1835,14 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21111.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21112.ts
 #EXTINF:-1,Animal Planet Россия
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21113.ts
-#EXTINF:-1,Кинокомедия
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21114.ts
-#EXTINF:-1,Bolt
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21115.ts
 #EXTINF:-1,Fox Life
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21116.ts
 #EXTINF:-1,Fox
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21117.ts
-#EXTINF:-1,Sport1 Ukraina
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21118.ts
-#EXTINF:-1,UA:Перший HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21119.ts
-#EXTINF:-1,Discovery Россия
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21120.ts
 #EXTINF:-1,Familia (Домашний)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21121.ts
 #EXTINF:-1,M1 Global
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21123.ts
-#EXTINF:-1,Первый Музыкальный
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21126.ts
-#EXTINF:-1,Первый Музыкальный HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21127.ts
 #EXTINF:-1,EuroNews RU
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21128.ts
 #EXTINF:-1,Star Family (Ukraine)
@@ -2391,16 +1871,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21140.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21141.ts
 #EXTINF:-1,Карусель (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21142.ts
-#EXTINF:-1,Docu Box HD (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21143.ts
-#EXTINF:-1,FilmBox (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21144.ts
-#EXTINF:-1,FilmBox Arthouse (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21145.ts
 #EXTINF:-1,Discovery Channel HD (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21146.ts
-#EXTINF:-1,Animal Planet HD (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21147.ts
 #EXTINF:-1,Discovery Science (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21149.ts
 #EXTINF:-1,HD Life (Россия)
@@ -2415,8 +1887,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21153.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21154.ts
 #EXTINF:-1,History HD (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21155.ts
-#EXTINF:-1,Viasat Explore (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21156.ts
 #EXTINF:-1,Viasat Nature (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21157.ts
 #EXTINF:-1,Viasat History (Россия)
@@ -2435,8 +1905,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21164.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21165.ts
 #EXTINF:-1,Первый Канал HD (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21166.ts
-#EXTINF:-1,ТНТ (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21167.ts
 #EXTINF:-1,РенТВ (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21168.ts
 #EXTINF:-1,ТНТ 4 (Россия)
@@ -2445,10 +1913,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21169.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21170.ts
 #EXTINF:-1,НТВ Право (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21171.ts
-#EXTINF:-1,НТВ Стиль (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21172.ts
-#EXTINF:-1,НТВ Хит (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21173.ts
 #EXTINF:-1,НТВ Сериал (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21174.ts
 #EXTINF:-1,СТС (Россия)
@@ -2475,14 +1939,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21184.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21185.ts
 #EXTINF:-1,КХЛ (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21186.ts
-#EXTINF:-1,Матч! Арена (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21187.ts
-#EXTINF:-1,Матч! Боец (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21188.ts
-#EXTINF:-1,Матч! Игра (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21189.ts
-#EXTINF:-1,Матч! Страна (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21190.ts
 #EXTINF:-1,Матч! Планета (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21191.ts
 #EXTINF:-1,Матч! (Россия)
@@ -2499,14 +1955,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21197.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21198.ts
 #EXTINF:-1,Amedia HBO 1 (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21199.ts
-#EXTINF:-1,Amedia HBO 2 (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21200.ts
-#EXTINF:-1,Кинопоказ 1 (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21201.ts
-#EXTINF:-1,2x2 (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21202.ts
-#EXTINF:-1,Bollywood (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21203.ts
 #EXTINF:-1,Дом Кино (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21204.ts
 #EXTINF:-1,Киномикс (Россия)
@@ -2525,8 +1973,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21210.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21211.ts
 #EXTINF:-1,НСТ (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21212.ts
-#EXTINF:-1,Родное Кино (Россия)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21213.ts
 #EXTINF:-1,Русская Комедия (Россия)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21214.ts
 #EXTINF:-1,Русский Бестселлер (Россия)
@@ -2543,12 +1989,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21219.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/21220.ts
 #EXTINF:-1,HU: M1 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25139.ts
-#EXTINF:-1,HU: M2 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25141.ts
-#EXTINF:-1,HU: M2 / PETOFI TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25142.ts
-#EXTINF:-1,HU: M5 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25143.ts
 #EXTINF:-1,HU: RTL GOLD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25145.ts
 #EXTINF:-1,HU: RTL +
@@ -2617,8 +2057,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25184.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25185.ts
 #EXTINF:-1,HU: PARAMOUNT CHANNEL
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25186.ts
-#EXTINF:-1,HU: DIGI SPORT 1 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25188.ts
 #EXTINF:-1,HU: DIGI SPORT 1
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25189.ts
 #EXTINF:-1,HU: DIGI SPORT 2 HD
@@ -2627,12 +2065,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25190.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25191.ts
 #EXTINF:-1,HU: DIGI SPORT 3 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25192.ts
-#EXTINF:-1,HU: DIGI SPORT 3
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25193.ts
 #EXTINF:-1,HU: M4 SPORT HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25194.ts
-#EXTINF:-1,HU: M4 SPORT
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25195.ts
 #EXTINF:-1,HU: SPORT 1 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25196.ts
 #EXTINF:-1,HU: SPORT 2 HD
@@ -2641,16 +2075,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25197.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25198.ts
 #EXTINF:-1,HU: EUROSPORT 1 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25199.ts
-#EXTINF:-1,HU: EUROSPORT 2 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25200.ts
-#EXTINF:-1,HU: SPILER 1 TV HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25201.ts
-#EXTINF:-1,HU: SPILER 1 TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25202.ts
 #EXTINF:-1,HU: SPILER 2 TV HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25203.ts
-#EXTINF:-1,HU: SPILER 2 TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25204.ts
 #EXTINF:-1,HU: SOROZAT +
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25205.ts
 #EXTINF:-1,HU: DUNA HD
@@ -2673,14 +2099,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25215.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25216.ts
 #EXTINF:-1,HU: IZAURA TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25218.ts
-#EXTINF:-1,HU: JOCKY TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25219.ts
-#EXTINF:-1,HU: SPEKTRUM HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25221.ts
 #EXTINF:-1,HU: SPEKTRUM Home
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25222.ts
-
-
 #EXTINF:-1,HU: MUSIC CHANNEL
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25224.ts
 #EXTINF:-1,HU: MTV DANCE
@@ -2693,10 +2113,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25227.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25228.ts
 #EXTINF:-1,HU: MUZSIKA TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25229.ts
-#EXTINF:-1,HU: DISNEY CHANNEL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25231.ts
-#EXTINF:-1,HU: CARTOON NETWORK
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25232.ts
 #EXTINF:-1,HU: NICKELODEON
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25233.ts
 #EXTINF:-1,HU: NICKTOONS
@@ -2707,49 +2123,26 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25236.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25237.ts
 #EXTINF:-1,HU: JIMJAM
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25238.ts
-#EXTINF:-1,HU: KIWI TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25239.ts
-#EXTINF:-1,HU: MINIMAX
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25240.ts
 #EXTINF:-1,HU: DISCOVERY CHANNEL HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25242.ts
 #EXTINF:-1,HU: DISCOVERY SCIENCE
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25244.ts
 #EXTINF:-1,HU: NAT GEO HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25245.ts
-#EXTINF:-1,HU: NATIONAL GEOGRAPHIC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25246.ts
-#EXTINF:-1,HU: NAT GEO WILD HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25247.ts
 #EXTINF:-1,HU: ANIMAL PLANET HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25248.ts
 #EXTINF:-1,HU: DIGI ANIMAL WORLD HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25249.ts
-#EXTINF:-1,HU: DIGI WORLD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25250.ts
-#EXTINF:-1,HU: HISTORY HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25251.ts
-#EXTINF:-1,HU: HISTORY
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25252.ts
 #EXTINF:-1,HU: VIASAT NATURE
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25253.ts
 #EXTINF:-1,HU: VIASAT NATURE / HISTORY HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25254.ts
 #EXTINF:-1,HU: VIASAT HISTORY
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25255.ts
-#EXTINF:-1,HU: THE FISHING AND HUNTING HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25256.ts
 #EXTINF:-1,HU: TRAVEL CHANNEL HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25257.ts
-#EXTINF:-1,HU: DA VINCI LEARNING
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25258.ts
-#EXTINF:-1,HU: OZONE NETWORK
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25259.ts
-#EXTINF:-1,HU: ZENEBUTIK
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25260.ts
 #EXTINF:-1,HU: TV PAPRIKA
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/25261.ts
-
 #EXTINF:-1,BE: LA UNE HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26806.ts
 #EXTINF:-1,BE: RTL TVI HD
@@ -2758,143 +2151,22 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26809.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26810.ts
 #EXTINF:-1,BE: PLUG RTL
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26811.ts
-#EXTINF:-1,BE: AB 3 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26812.ts
-#EXTINF:-1,BE: BEL RTL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26813.ts
 #EXTINF:-1,BE: CANVAS FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26818.ts
-#EXTINF:-1,BE: EEN FHD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26819.ts
 #EXTINF:-1,BE: KETNET HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26820.ts
 #EXTINF:-1,BE: VTM 2 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26821.ts
-#EXTINF:-1,BE: VIER FHD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26822.ts
-#EXTINF:-1,BE: VTM 3
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26823.ts
 #EXTINF:-1,BE: VTM FHD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26824.ts
 #EXTINF:-1,BE: VOO SPORT 2
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26826.ts
-
-
-#EXTINF:-1,SW: SVT 1 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27282.ts
-#EXTINF:-1,SW: SVT 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27283.ts
-#EXTINF:-1,SW: SVT 2 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27284.ts
-#EXTINF:-1,SW: SVT 24/B HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27285.ts
-#EXTINF:-1,SW: TV3 Sweden
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27286.ts
-#EXTINF:-1,SW: TV 4
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27287.ts
-#EXTINF:-1,SW: TV4 FAKTA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27289.ts
-#EXTINF:-1,SW: TV4 Film
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27290.ts
-#EXTINF:-1,SW: TV 6 Sweden
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27293.ts
-#EXTINF:-1,SW: KANAL 9
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27296.ts
-#EXTINF:-1,SW: TV 10 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27297.ts
-#EXTINF:-1,SW: Kanal 11 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27298.ts
-#EXTINF:-1,SW: TV 12 HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27299.ts
-#EXTINF:-1,SW: Kunskapskanalen
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27300.ts
-#EXTINF:-1,SW: Boomerang
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27301.ts
-#EXTINF:-1,SW: Bloomberg
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27302.ts
-#EXTINF:-1,SC: TLC HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27303.ts
-#EXTINF:-1,SW: CNBC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27304.ts
-#EXTINF:-1,SW: Kanal 10
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27307.ts
-#EXTINF:-1,SW: TLC Sverige
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27308.ts
-#EXTINF:-1,SW: MTV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27313.ts
-#EXTINF:-1,SW: BBC Earth HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27315.ts
-#EXTINF:-1,SW: Viasat Nature
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27318.ts
-#EXTINF:-1,SW: Discovery Channel
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27320.ts
-#EXTINF:-1,SW: Animal Planet
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27322.ts
-#EXTINF:-1,SW: Investigation Discovery Sweden
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27323.ts
-#EXTINF:-1,SW: Disney Channel
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27326.ts
-#EXTINF:-1,SW: Disney Junior
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27327.ts
-#EXTINF:-1,SW: Nicktoons
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27329.ts
-#EXTINF:-1,SW: Nick JR
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27330.ts
-#EXTINF:-1,SW: Nickelodeon
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27331.ts
-#EXTINF:-1,SW: C More Hits HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27335.ts
-#EXTINF:-1,SW: C more Stars HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27337.ts
-#EXTINF:-1,SW: C MORE FOOTBALL HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27338.ts
-#EXTINF:-1,SW: Viasat Film Action
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27339.ts
-#EXTINF:-1,SW: Viasat Film Hits
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27340.ts
-#EXTINF:-1,SW: Viasat Hockey
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27342.ts
-#EXTINF:-1,SW: Viasat Series
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27343.ts
-#EXTINF:-1,SC: VIASAT 4
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27345.ts
-#EXTINF:-1,SC: VIASAT SPORT HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27346.ts
-#EXTINF:-1,SW: Viasat Sport Premium HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27347.ts
-#EXTINF:-1,SW: Eurosport 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27349.ts
-#EXTINF:-1,SW: Eurosport 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27350.ts
-#EXTINF:-1,SC: NICK JR
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27352.ts
-#EXTINF:-1,SC: BBC EARTH HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27353.ts
 #EXTINF:-1,PT: SPORT TV 2 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27408.ts
-
 #EXTINF:-1,PT: RTP ACORES
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27412.ts
-#EXTINF:-1,PT: SIC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27415.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27417.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27418.ts
-#EXTINF:-1,PT: SIC MULHER
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27419.ts
-#EXTINF:-1,PT: SIC CARAS
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27420.ts
 #EXTINF:-1,PT: TVI
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27421.ts
-#EXTINF:-1,PT: TVI 24
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27422.ts
-#EXTINF:-1,PT: GLOBO PORTUGAL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27424.ts
-#EXTINF:-1,PT: FOX NEWS
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27427.ts
-#EXTINF:-1,PT: TVI FICÇAO
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27428.ts
 #EXTINF:-1,PT: CMTV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27431.ts
 #EXTINF:-1,PT: TVI REALITY
@@ -2903,10 +2175,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27433.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27435.ts
 #EXTINF:-1,PT: E!
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27436.ts
-#EXTINF:-1,PT: LOCALVISAO TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27437.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27438.ts
 #EXTINF:-1,PT: CARTOON NETWORK
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27441.ts
 #EXTINF:-1,PT: NAT GEO WILD
@@ -2919,36 +2187,18 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27447.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27449.ts
 #EXTINF:-1,PT: MCM POP
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27451.ts
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27452.ts
-#EXTINF:-1,PT: BABY TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27454.ts
-#EXTINF:-1,PT: BLOOMBERG
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27455.ts
 #EXTINF:-1,PT: ODISSEIA
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27456.ts
 #EXTINF:-1,PT: MEZZO
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27458.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27461.ts
-#EXTINF:-1,PT: TLC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27462.ts
-#EXTINF:-1,PT: VH1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27464.ts
 #EXTINF:-1,PT: AXN WHITE
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27465.ts
 #EXTINF:-1,PT: BIGGS
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27466.ts
 #EXTINF:-1,PT: BLAZE
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27467.ts
-#EXTINF:-1,PT: FOX
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27470.ts
-#EXTINF:-1,PT: SPORT TV 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27472.ts
 #EXTINF:-1,PT: SPORT TV 3
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27473.ts
-#EXTINF:-1,PT: TV  FATIMA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27475.ts
 #EXTINF:-1,PT: TVCINE EDITION
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27477.ts
 #EXTINF:-1,PT: TVCINE EMOTION
@@ -2957,76 +2207,30 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27478.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27480.ts
 #EXTINF:-1,PT: KURIAKOS CINE
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27481.ts
-#EXTINF:-1,PT: NOS STUDIO
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27484.ts
-#EXTINF:-1,PT: CANAL 11
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27485.ts
-
-#EXTINF:-1,GR: ----- Greece -----
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27355.ts
 #EXTINF:-1,GR: Skai HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27359.ts
 #EXTINF:-1,GR: Makedonia TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27361.ts
-#EXTINF:-1,GR: 4E TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27363.ts
-#EXTINF:-1,GR: Kontra TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27366.ts
-#EXTINF:-1,GR: Ionian TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27367.ts
 #EXTINF:-1,GR: ----- Greece Cinema -----
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27370.ts
-#EXTINF:-1,GR: Village Cinema HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27371.ts
 #EXTINF:-1,GR: Action 24 TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27373.ts
-#EXTINF:-1,GR: Alpha
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27374.ts
-#EXTINF:-1,GR: ERT World HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27376.ts
 #EXTINF:-1,AZ: CBC SPORT HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27380.ts
 #EXTINF:-1,GR: Rik Sat CY
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27382.ts
 #EXTINF:-1,GR: EuroSport 2 HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27384.ts
-#EXTINF:-1,GR: Nickelodeon HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27385.ts
-#EXTINF:-1,GR: Disney Channel HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27386.ts
-#EXTINF:-1,GR: Smile TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27388.ts
 #EXTINF:-1,GR: PONTIAKA TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27390.ts
-#EXTINF:-1,GR: Cosmote History HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27392.ts
-#EXTINF:-1,GR: National Geo HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27393.ts
 #EXTINF:-1,GR: National Geo Wild HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27394.ts
-#EXTINF:-1,GR: Thraki Net
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27395.ts
-#EXTINF:-1,GR: TileSport TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27396.ts
-#EXTINF:-1,GR: Barbie
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27397.ts
-#EXTINF:-1,GR: NG TV Radio
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27398.ts
-#EXTINF:-1,GR: Net TV Toronto
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27399.ts
-#EXTINF:-1,GR: Delta TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27400.ts
 #EXTINF:-1,GR: Magic TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27402.ts
-#EXTINF:-1,GR: MEGA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27403.ts
-#EXTINF:-1,GR: Scooby Doo
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27405.ts
 #EXTINF:-1,GR: Smurfs (ΣΤΡΟΥΜΦΑΚΙΑ)
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27406.ts
 #EXTINF:-1,GR: SpongeBob SquarePants
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27407.ts
-
 #EXTINF:-1,PT: RTP ACORES
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27412.ts
 #EXTINF:-1,PT: SIC
@@ -3039,14 +2243,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27418.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27419.ts
 #EXTINF:-1,PT: SIC CARAS
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27420.ts
-#EXTINF:-1,PT: TVI
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27421.ts
-#EXTINF:-1,PT: TVI 24
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27422.ts
-#EXTINF:-1,PT: GLOBO PORTUGAL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27424.ts
-#EXTINF:-1,PT: FOX NEWS
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27427.ts
 #EXTINF:-1,PT: TVI FICÇAO
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27428.ts
 #EXTINF:-1,PT: CMTV
@@ -3055,10 +2251,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27431.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27433.ts
 #EXTINF:-1,PT: CBS REALITY
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27435.ts
-#EXTINF:-1,PT: E!
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27436.ts
-#EXTINF:-1,PT: LOCALVISAO TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27437.ts
 #EXTINF:-1,PT: CANAL PANDA
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27438.ts
 #EXTINF:-1,PT: CARTOON NETWORK
@@ -3067,14 +2259,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27441.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27442.ts
 #EXTINF:-1,PT: CRIME + INVESTIGATION TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27444.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27447.ts
-#EXTINF:-1,PT: ICONCERTS HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27449.ts
-#EXTINF:-1,PT: MCM POP
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27451.ts
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27452.ts
 #EXTINF:-1,PT: BABY TV
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27454.ts
 #EXTINF:-1,PT: BLOOMBERG
@@ -3085,24 +2269,12 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27456.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27458.ts
 #EXTINF:-1,PT: RTP AFRICA
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27461.ts
-#EXTINF:-1,PT: TLC
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27462.ts
-#EXTINF:-1,PT: VH1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27464.ts
-#EXTINF:-1,PT: AXN WHITE
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27465.ts
 #EXTINF:-1,PT: BIGGS
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27466.ts
-#EXTINF:-1,PT: BLAZE
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27467.ts
-#EXTINF:-1,PT: FOX
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27470.ts
 #EXTINF:-1,PT: SPORT TV 2
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27472.ts
 #EXTINF:-1,PT: SPORT TV 3
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27473.ts
-#EXTINF:-1,PT: TV  FATIMA
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27475.ts
 #EXTINF:-1,PT: TVCINE EDITION
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27477.ts
 #EXTINF:-1,PT: TVCINE EMOTION
@@ -3115,37 +2287,6 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27481.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27484.ts
 #EXTINF:-1,PT: CANAL 11
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/27485.ts
-
-#EXTINF:-1,iptvtools_1
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28675.mp4
-#EXTINF:-1,iptvtools_2
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28676.mp4
-#EXTINF:-1,iptvtools_3
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28678.mp4
-#EXTINF:-1,iptvtools_4
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28679.mp4
-#EXTINF:-1,iptvtools_5
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28680.mp4
-#EXTINF:-1,iptvtools_6
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28681.mp4
-#EXTINF:-1,iptvtools_7
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28682.mp4
-#EXTINF:-1,iptvtools_8
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28683.mp4
-#EXTINF:-1,iptvtools_9
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28684.mp4
-#EXTINF:-1,iptvtools_10
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28685.mp4
-#EXTINF:-1,iptvtools_11
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28686.mp4
-#EXTINF:-1,iptvtools_13
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28688.mp4
-#EXTINF:-1,iptvtools_14
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28689.mp4
-#EXTINF:-1,iptvtools_15
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28690.mp4
-#EXTINF:-1,iptvtools_16
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/28692.mp4
 #EXTINF:-1,iptvtools_18
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/26651.mp4
 #EXTINF:-1,iptvtools_20
@@ -3166,10 +2307,6 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25989.mp4
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25335.mp4
 #EXTINF:-1,iptvtools_28
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25336.mp4
-#EXTINF:-1,iptvtools_29
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25328.mp4
-#EXTINF:-1,iptvtools_31
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25285.mp4
 #EXTINF:-1,iptvtools_32
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25286.mp4
 #EXTINF:-1,iptvtools_34
@@ -3218,8 +2355,6 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25133.mp4
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25105.mp4
 #EXTINF:-1,iptvtools_60
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25104.mp4
-#EXTINF:-1,iptvtools_62
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25107.mp4
 #EXTINF:-1,iptvtools_63
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/25108.mp4
 #EXTINF:-1,iptvtools_64
@@ -3250,8 +2385,6 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24865.mp4
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24844.mp4
 #EXTINF:-1,iptvtools_83
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24856.mp4
-#EXTINF:-1,iptvtools_84
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24857.mp4
 #EXTINF:-1,iptvtools_85
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24858.mp4
 #EXTINF:-1,iptvtools_86
@@ -3284,8 +2417,6 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24832.mp4
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24833.mp4
 #EXTINF:-1,iptvtools_101
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24834.mp4
-#EXTINF:-1,iptvtools_102
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24816.mp4
 #EXTINF:-1,iptvtools_103
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24817.mp4
 #EXTINF:-1,iptvtools_104
@@ -3310,8 +2441,6 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/22929.mkv
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/24129.mkv
 #EXTINF:-1,iptvtools_117
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/22930.mkv
-#EXTINF:-1,iptvtools_118
-http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/22931.mkv
 #EXTINF:-1,iptvtools_119
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/21738.mp4
 #EXTINF:-1,iptvtools_120
@@ -3328,3 +2457,4 @@ http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/22699.mp4
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/23253.mkv
 #EXTINF:-1,iptvtools_126
 http://pamporea.xyz:8080/movie/florinbogdan1206@gmail.com/zhrv5f1JiV/22430.mkv
+
