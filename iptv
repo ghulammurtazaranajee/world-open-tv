@@ -63,12 +63,6 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,Captain TV (576p)
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1,Cartoon Network Hindi (576p)
-http://103.153.39.34:8000/play/a04k/index.m3u8
-#EXTINF:-1,Cartoon Network Hindi (432p)
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1,Channel (720p) [V]
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1,Channel Divya (360p) [Not 24/7]
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8
 #EXTINF:-1,Channel Win (360p)
@@ -125,8 +119,6 @@ https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
 http://14.199.164.20:4001/play/a0q8/index.m3u8
 #EXTINF:-1,FASTWAY NEWS (720p)
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1,Filmeraa (720p)
-https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 #EXTINF:-1,Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1,Food Food (576p)
@@ -279,8 +271,6 @@ https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #EXTINF:-1,Polimer News (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0lg/index.m3u8
-#EXTINF:-1,Popular Science (720p)
-https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 #EXTINF:-1,Pratidin Time (360p) [Not 24/7]
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1,Prime Canada TV (720p)
@@ -307,8 +297,6 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1,Sardari TV (1080p)
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,Serveur TV (720p)
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 #EXTINF:-1,Shekinah TV (576p)
 http://14.199.164.20:4001/play/a0ok/index.m3u8
 #EXTINF:-1,Shemaroo TV (576p)
@@ -417,8 +405,6 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
 #EXTINF:-1,Zee TV USA (576p)
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
-#EXTINF:-1,Zee World (576p)
-https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1,Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1,Zee5 Romance (1080p)
@@ -463,8 +449,6 @@ http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv
 #EXTINF:-1,Alfajer TV 2 (720p)
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,Amman TV (720p)
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1,Assadissa (360p)
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1,Assyrian ANB (720p)
@@ -539,8 +523,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
 #EXTINF:-1,Onda Digital (720p) [Not 24/7]
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-#EXTINF:-1,OTV (720p)
-http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1,Palestine Mubasher (404p)
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1,Palestine Satellite Channel (404p)
@@ -585,8 +567,6 @@ http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,SIC Internacional (720p)
 http://live.impresa.pt/live/sicint/sicint.m3u8
-#EXTINF:-1,Syria Satellite Channel (160p)
-http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
 #EXTINF:-1,Tamazight (360p)
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,Tamazight (360p)
@@ -633,14 +613,10 @@ https://alpha.tv.online.tm/hls/ch007_400/index.m3u8
 http://170.79.102.223/UCI/index.m3u8
 #EXTINF:-1,Ugarit TV (160p) [Not 24/7]
 http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
-#EXTINF:-1,USIL TV [Not 24/7]
-https://video.produccionesmagicorp.com/redes/video.m3u8
 #EXTINF:-1,WAAR TV (480p)
 https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8
 #EXTINF:-1,Watan TV (1080p)
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1,Yaracuy) (404p) [Not 24/7]
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1,Yeeaah! (720p)
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1,Zagros (720p)
@@ -1117,8 +1093,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/223
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/224
 #EXTINF:-1,DE:BOOMERANG HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/225
-#EXTINF:-1,DE:DISNEY JUNIOR
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/226
 #EXTINF:-1,DE:DISNEY XD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/227
 #EXTINF:-1,DE:DISNEY CHANNEL HD
@@ -1193,8 +1167,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/262
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/263
 #EXTINF:-1,DE:SKY CINEMA COMEDY HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/264
-#EXTINF:-1,DE:SKY CINEMA EMOTION HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/265
 #EXTINF:-1,DE:SKY CINEMA HITS
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/266
 #EXTINF:-1,DE:SKY CINEMA NOSTALGIE
@@ -1277,8 +1249,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/331
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/332
 #EXTINF:-1,AT:Servus Tv Austria
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/334
-#EXTINF:-1,UK:BEIN SPORTS ENGLISCH
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/341
 #EXTINF:-1,AT:OE24 TV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/340
 #EXTINF:-1,AT:KRONE HIT
