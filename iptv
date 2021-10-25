@@ -1,72 +1,69 @@
 #EXTM3U
 
-
-#EXTINF:-1 ,AL HOKAIR Group TV (576p)
+#EXTINF:-1,AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
-#EXTINF:-1 ,Al Quran Al Kareem TV (Mecca) (720p)
+#EXTINF:-1,Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 ,Al Quran Al Kareem TV (Mecca) (360p)
+#EXTINF:-1,Al Quran Al Kareem TV (Mecca) (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 ,Al Saudiya (360p)
+#EXTINF:-1,Al Saudiya (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah TV (Medina) (720p)
+#EXTINF:-1,Al Sunnah Al Nabawiyah TV (Medina) (720p)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah TV (Medina) (360p)
+#EXTINF:-1,Al Sunnah Al Nabawiyah TV (Medina) (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 ,Alaraby TV (1080p)
+#EXTINF:-1,Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 ,Asharq (1080p)
+#EXTINF:-1,Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
-#EXTINF:-1 ,Asharq (Portrait) (1280p)
+#EXTINF:-1,Asharq (Portrait) (1280p)
 https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
-#EXTINF:-1 ,Atfal Wa Mawaheb (1080p)
+#EXTINF:-1,Atfal Wa Mawaheb (1080p)
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 ,BBC Arabic (720p)
+#EXTINF:-1,BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1 ,BBC Arabic (540p)
+#EXTINF:-1,BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 ,Dubai One (1080p)
+#EXTINF:-1,Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 ,DW Arabic (1080p)
+#EXTINF:-1,DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 ,France 24 Arabic (1080p)
+#EXTINF:-1,France 24 Arabic (1080p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 ,France 24 Arabic (576p)
+#EXTINF:-1,France 24 Arabic (576p)
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,Jasco Events TV (576p)
+#EXTINF:-1,Jasco Events TV (576p)
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 ,Kaif TV (576p)
+#EXTINF:-1,Kaif TV (576p)
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 ,Makkah TV (480p)
+#EXTINF:-1,Makkah TV (480p)
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 ,MBC 1 KSA (1080p)
+#EXTINF:-1,MBC 1 KSA (1080p)
 https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 ,RT Arabic (1080p)
+#EXTINF:-1,RT Arabic (1080p)
 https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
-#EXTINF:-1 ,Asharq (1080p)
+#EXTINF:-1,Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master.m3u8
-#EXTINF:-1 ,Khyber Middle East TV (414p) [Not 24/7]
+#EXTINF:-1,Khyber Middle East TV (414p) [Not 24/7]
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
-#EXTINF:-1 ,Khyber News TV (414p) [Not 24/7]
+#EXTINF:-1,Khyber News TV (414p) [Not 24/7]
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
-#EXTINF:-1 ,Towheed TV (720p)
+#EXTINF:-1,Towheed TV (720p)
 http://51.210.199.1/hls/stream.m3u8
-#EXTINF:-1 ,Weyyak Action (720p)
+#EXTINF:-1,Weyyak Action (720p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 ,Weyyak Drama (720p)
+#EXTINF:-1,Weyyak Drama (720p)
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 ,Weyyak Mix (720p)
+#EXTINF:-1,Weyyak Mix (720p)
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 ,Weyyak Nawaem (720p)
+#EXTINF:-1,Weyyak Nawaem (720p)
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 ,Zee Aflam (720p)
+#EXTINF:-1,Zee Aflam (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 ,Zee Alwan (720p)
+#EXTINF:-1,Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1,NBN
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/211
-#EXTINF:-1,Neelain Sport
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/62
 #EXTINF:-1,Nessma
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/396
 #EXTINF:-1,NET TV
@@ -251,18 +248,8 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/132
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/485
 #EXTINF:-1,Sterk TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/129
-#EXTINF:-1,Sudan Drama
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/128
-#EXTINF:-1,Sudan Monwaat
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/127
-#EXTINF:-1,Sudan Music
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/484
-#EXTINF:-1,Sudan Sport
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/483
 #EXTINF:-1,Sudan TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/482
-#EXTINF:-1,Sudania 24 HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/481
 #EXTINF:-1,Suhail TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/126
 #EXTINF:-1,Suroyo TV
@@ -301,8 +288,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/387
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/78
 #EXTINF:-1,The Savior
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/115
-#EXTINF:-1,TR: Tivibu Spor
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/70
 #EXTINF:-1,Toktok Aflam
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/114
 #EXTINF:-1,Toktok Cima
@@ -571,8 +556,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1143
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1142
 #EXTINF:-1,UK: Sky Hits
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1141
-#EXTINF:-1,UK: Box Upfront
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1140
 #EXTINF:-1,UK: MTV Hits
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1136
 #EXTINF:-1,UK: MTV Classic
@@ -637,8 +620,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1085
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1077
 #EXTINF:-1,UK: Gold FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1076
-#EXTINF:-1,UK: Real lives
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1074
 #EXTINF:-1,UK: Sky 1 HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1072
 #EXTINF:-1,UK: Comedy Central
@@ -665,10 +646,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1053
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1052
 #EXTINF:-1,UK: Dave FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1051
-#EXTINF:-1,UK: Pick
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1050
-#EXTINF:-1,UK: MTV Base
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1049
 #EXTINF:-1,UK: Fox+
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1047
 #EXTINF:-1,UK: Yesterday
@@ -743,8 +720,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1197
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1206
 #EXTINF:-1,[GER] Sky Sport News HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1213
-#EXTINF:-1,[GER] Sky Sport Austria
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1219
 #EXTINF:-1,[GER] Sky Sport 1 HD 1080P
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1220
 #EXTINF:-1,[GER] Sky Sport 3 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
@@ -775,8 +750,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1290
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1286
 #EXTINF:-1,[POL] FOX HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1285
-#EXTINF:-1,[POL] ELEVEN Sport HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1279
 #EXTINF:-1,[POL] Disney XD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1278
 #EXTINF:-1,[POL] Disney Channel HD
@@ -881,8 +854,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1876
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1868
 #EXTINF:-1,[NL] NPO 1 FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1867
-#EXTINF:-1,[NL] Nickelodeon
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1865
 #EXTINF:-1,[NL] Net 5 FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1860
 #EXTINF:-1,[NL] National Geo HD
@@ -909,12 +880,8 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1845
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1843
 #EXTINF:-1,[NL] Film 1 Family
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1839
-#EXTINF:-1,[NL] Extreme Sports
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1833
 #EXTINF:-1,[NL] Djazz.tv
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1830
-#EXTINF:-1,[FRA] Trace Tropical
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2024
 #EXTINF:-1,[FRA] Trace Africa
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2023
 #EXTINF:-1,[FRA] MTV Dance
@@ -943,8 +910,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1994
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1993
 #EXTINF:-1,[FRA] Bein Sports 3 HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1992
-#EXTINF:-1,[FRA] CanalPlay 4
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1988
 #EXTINF:-1,[FRA] CanalPlay 1
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1985
 #EXTINF:-1,[FRA] A La Carte 7 HD
@@ -965,8 +930,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1965
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1966
 #EXTINF:-1,[FRA] Animau
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1964
-#EXTINF:-1,[FRA] Chasse Et Peche
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1963
 #EXTINF:-1,[FRA] Discovery France HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1957
 #EXTINF:-1,[FRA] National Geo Wild
@@ -987,16 +950,12 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1931
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1929
 #EXTINF:-1,BEL: Canvas FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1928
-#EXTINF:-1,[FRA] OCS Go Cinema 1 HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2036
 #EXTINF:-1,[FRA] KTO
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2035
 #EXTINF:-1,[FRA] BFM Business HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2032
 #EXTINF:-1,[FRA] CNews HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2028
-#EXTINF:-1,EXYU: RTS 1
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2174
 #EXTINF:-1,EXYU: RTS 2
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2175
 #EXTINF:-1,EXYU: RTS 3
@@ -1009,18 +968,12 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2180
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2186
 #EXTINF:-1,EXYU: B92
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2187
-#EXTINF:-1,EXYU: DM SAT
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2188
 #EXTINF:-1,EXYU: Duga TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2189
 #EXTINF:-1,EXYU: Balkanika
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2192
-#EXTINF:-1,EXYU: HBO HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2209
 #EXTINF:-1,EXYU: HBO 2 HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2210
-#EXTINF:-1,EXYU: 24 Kitchen
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2213
 #EXTINF:-1,EXYU: Nova TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2214
 #EXTINF:-1,EXYU: Pink 2
@@ -1061,10 +1014,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2265
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2268
 #EXTINF:-1,EXYU: BN Music
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2269
-#EXTINF:-1,EXYU: Federalna TV
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2273
-#EXTINF:-1,EXYU: Hayat Plus
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2277
 #EXTINF:-1,EXYU: Hayatovci
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2278
 #EXTINF:-1,EXYU: MTV Igman
@@ -1077,8 +1026,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2287
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2288
 #EXTINF:-1,EXYU: TV Sehara HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2289
-#EXTINF:-1,EXYU: SANDZAK TV MREZA
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2290
 #EXTINF:-1,EXYU: HRT 1
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2294
 #EXTINF:-1,EXYU: HRT 2
@@ -1101,8 +1048,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2329
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2330
 #EXTINF:-1,EXYU: Baby Tv
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2332
-#EXTINF:-1,EXYU: Sportska TV
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2336
 #EXTINF:-1,EXYU: Sport Klub 2
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2338
 #EXTINF:-1,EXYU: Sport Klub 3
@@ -1245,8 +1190,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25954
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25959
 #EXTINF:-1,SPA: CANAL DECASA
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25960
-#EXTINF:-1,SPA: TV GALICIA
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25961
 #EXTINF:-1,SPA: TOROS TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25962
 #EXTINF:-1,SPA: DISNEY XD
@@ -1283,8 +1226,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26017
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26571
 #EXTINF:-1,DEN: Viasat History HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26572
-#EXTINF:-1,DEN: Viasat Explorer HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26573
 #EXTINF:-1,NOR: Viasat 4 FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26767
 #EXTINF:-1,NOR: Viasat Film Action FHD [Multi-Sub]
@@ -1293,8 +1234,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26771
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26778
 #EXTINF:-1,NOR: Matkanalen
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26794
-#EXTINF:-1,USA:  CINEMAX EAST
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26813
 #EXTINF:-1,USA:  MOREMAX
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26815
 #EXTINF:-1,USA:  OUTERMAX
@@ -1367,8 +1306,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26879
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26880
 #EXTINF:-1,USA: CBS MILWAUKEE WI WDJT
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26882
-#EXTINF:-1,USA: CBS MINNEAPOLIS MN WCCO
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26883
 #EXTINF:-1,USA: CBS NASHVILLE TN WTVF
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26884
 #EXTINF:-1,USA: CBS ORLANDO FL WKMG
@@ -1439,8 +1376,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26965
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26969
 #EXTINF:-1,USA:  AXS TV
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26970
-#EXTINF:-1,USA:  BABY FIRST
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26971
 #EXTINF:-1,USA:  BET JAMS
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/26976
 #EXTINF:-1,USA:  BLOOMBERG
@@ -1573,8 +1508,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27119
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27121
 #EXTINF:-1,USA: TELEMUNDO MIAMI HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27125
-#EXTINF:-1,USA: TELEMUNDO BOSTON HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27126
 #EXTINF:-1,USA: TELEMUNDO DALLAS HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27127
 #EXTINF:-1,USA: Telemundo Fresno
@@ -2115,8 +2048,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/27421
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/28793
 #EXTINF:-1,SWE: SVT24/B FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/28795
-#EXTINF:-1,SWE: SVT2 FHD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/28796
 #EXTINF:-1,NOR: NRK2 HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/28864
 #EXTINF:-1,NOR: NRK3 SUPER
@@ -2177,8 +2108,6 @@ http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/29110
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/29112
 #EXTINF:-1,France 2 FHD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/30011
-#EXTINF:-1,C More Event 1 HD
-http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/31915
 #EXTINF:-1,C more Event 2 HD
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/31916
 #EXTINF:-1,[4K] Sherlock Holmes (2009)
